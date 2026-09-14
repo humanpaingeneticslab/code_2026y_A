@@ -2,14 +2,12 @@
 Code and data for "State-dependent roles of inflammation across pain conditions: insights from human transcriptomics"
 
 # How to start?
-<ul>
-  <li>Download the zipped tarball from this project</li>
-</ul>
-
-Next, unzip the tarball;
+1. Download the zipped tarball from this project
+2. Next, unzip the tarball;
 ```bash
 tar -xvf archive.tar.gz
 ```
+3. Open the file commands_archive.txt and follow along
 
 # What's included
 <ul>
